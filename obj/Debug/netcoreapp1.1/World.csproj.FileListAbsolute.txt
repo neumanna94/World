@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/World/World/bin/Debug/netcoreapp1.1/World.deps.json
+/Users/Guest/Desktop/World/World/bin/Debug/netcoreapp1.1/World.runtimeconfig.json
+/Users/Guest/Desktop/World/World/bin/Debug/netcoreapp1.1/World.runtimeconfig.dev.json
+/Users/Guest/Desktop/World/World/obj/Debug/netcoreapp1.1/World.AssemblyInfo.cs
+/Users/Guest/Desktop/World/World/bin/Debug/netcoreapp1.1/World.dll
+/Users/Guest/Desktop/World/World/bin/Debug/netcoreapp1.1/World.pdb
+/Users/Guest/Desktop/World/World/obj/Debug/netcoreapp1.1/World.dll
+/Users/Guest/Desktop/World/World/obj/Debug/netcoreapp1.1/World.pdb

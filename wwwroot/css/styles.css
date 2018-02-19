@@ -1,0 +1,27 @@
+body {
+    background-color: #272727;
+}
+
+label {
+  color: white;
+}
+h3, h5 {
+  color:white;
+}
+.jumbotron {
+  color: #272727;
+}
+
+button#submit {
+  color: #272727;
+}
+
+div#footer {
+    position:fixed;
+    bottom: 0px;
+    left:0px;
+    width:100%;
+    color:#272727;
+    background:white;
+    text-align: center;
+}

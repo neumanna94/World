@@ -1,0 +1,16 @@
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.deps.json
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.runtimeconfig.json
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.runtimeconfig.dev.json
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/obj/Debug/netcoreapp1.1/Blackjack.AssemblyInfo.cs
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.dll
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.pdb
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/obj/Debug/netcoreapp1.1/Blackjack.dll
+/Users/Guest/Desktop/Blackjack.Solution/Blackjack/obj/Debug/netcoreapp1.1/Blackjack.pdb
+/Users/Guest/Desktop/Blackjack/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.deps.json
+/Users/Guest/Desktop/Blackjack/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.runtimeconfig.json
+/Users/Guest/Desktop/Blackjack/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.runtimeconfig.dev.json
+/Users/Guest/Desktop/Blackjack/Blackjack/obj/Debug/netcoreapp1.1/Blackjack.AssemblyInfo.cs
+/Users/Guest/Desktop/Blackjack/Blackjack/obj/Debug/netcoreapp1.1/Blackjack.dll
+/Users/Guest/Desktop/Blackjack/Blackjack/obj/Debug/netcoreapp1.1/Blackjack.pdb
+/Users/Guest/Desktop/Blackjack/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.dll
+/Users/Guest/Desktop/Blackjack/Blackjack/bin/Debug/netcoreapp1.1/Blackjack.pdb
